@@ -30,9 +30,7 @@
         {
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
-            this.label3 = new System.Windows.Forms.Label();
             this.buttonConnect = new System.Windows.Forms.Button();
-            this.comboBoxTypeConnection = new System.Windows.Forms.ComboBox();
             this.TextboxIpaddress = new System.Windows.Forms.TextBox();
             this.textBoxPort = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
@@ -61,15 +59,6 @@
             this.label2.TabIndex = 2;
             this.label2.Text = "PORT :";
             // 
-            // label3
-            // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(435, 278);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(167, 20);
-            this.label3.TabIndex = 3;
-            this.label3.Text = "TYPE OF CONNECTION :";
-            // 
             // buttonConnect
             // 
             this.buttonConnect.Location = new System.Drawing.Point(956, 399);
@@ -79,14 +68,6 @@
             this.buttonConnect.Text = "CONNECT";
             this.buttonConnect.UseVisualStyleBackColor = true;
             this.buttonConnect.Click += new System.EventHandler(this.buttonConnect_Click);
-            // 
-            // comboBoxTypeConnection
-            // 
-            this.comboBoxTypeConnection.FormattingEnabled = true;
-            this.comboBoxTypeConnection.Location = new System.Drawing.Point(671, 278);
-            this.comboBoxTypeConnection.Name = "comboBoxTypeConnection";
-            this.comboBoxTypeConnection.Size = new System.Drawing.Size(100, 28);
-            this.comboBoxTypeConnection.TabIndex = 7;
             // 
             // TextboxIpaddress
             // 
@@ -171,14 +152,11 @@
             this.Controls.Add(this.label4);
             this.Controls.Add(this.textBoxPort);
             this.Controls.Add(this.TextboxIpaddress);
-            this.Controls.Add(this.comboBoxTypeConnection);
             this.Controls.Add(this.buttonConnect);
-            this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "settingsMdbusTcp";
             this.Text = "settingsMdbusTcp";
-            this.Load += new System.EventHandler(this.settingsMdbusTcp_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -188,9 +166,7 @@
 
         private Label label1;
         private Label label2;
-        private Label label3;
         private Button buttonConnect;
-        private ComboBox comboBoxTypeConnection;
         private TextBox TextboxIpaddress;
         private TextBox textBoxPort;
         private Label label4;

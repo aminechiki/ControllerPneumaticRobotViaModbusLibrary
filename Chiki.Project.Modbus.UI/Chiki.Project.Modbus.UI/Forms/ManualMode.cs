@@ -42,7 +42,7 @@ namespace Chiki.Project.Modbus.UI.Forms
 
             //ReadRegisters();
             var startTimeSpan = TimeSpan.Zero;
-            var periodTimeSpan = TimeSpan.FromMilliseconds(500);
+            var periodTimeSpan = TimeSpan.FromMilliseconds(1000);
 
             var timer = new System.Threading.Timer((e) =>
             {
@@ -79,7 +79,6 @@ namespace Chiki.Project.Modbus.UI.Forms
             {
                 StateInputSuRobot.BackColor = Color.Green;
                 StateInputGiuRobot.BackColor = Color.Red;
-
             }
 
             int fcGiu = MainPage.MasterModbusTcp.ResponseFromSlave[16];// | MainPage.MasterModbusTcp._ResponseFromSlave[15] << 8;
@@ -237,11 +236,6 @@ namespace Chiki.Project.Modbus.UI.Forms
                     labelIndietroRobot.BackColor = Color.Green;
                 }
             }
-        }
-
-        private void ManualMode_Load(object sender, EventArgs e)
-        {
-
         }
     }
     }

@@ -484,7 +484,6 @@
             this.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point);
             this.Name = "ManualMode";
             this.Text = "Indietro Robot";
-            this.Load += new System.EventHandler(this.ManualMode_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -23,11 +23,6 @@ namespace Chiki.Project.Modbus.UI.Forms
             //this.AutoSize = true;
             //this.AutoSizeMode = AutoSizeMode.;
 
-            //COMBOBOX CONNECTION TYPE
-            comboBoxTypeConnection.Items.Add("async");
-            comboBoxTypeConnection.Items.Add("sync");
-            comboBoxTypeConnection.SelectedItem = "async";
-
             //DEFAULT PARAMTERS
             textBoxPort.Text = "502";
             textBoxConnectionTimeout.Text= "1000";
@@ -38,25 +33,16 @@ namespace Chiki.Project.Modbus.UI.Forms
 
         private void buttonConnect_Click(object sender, EventArgs e)
         {
-            
+            //PORT
             int port = Convert.ToInt16(textBoxPort.Text);
-            bool connectionType = false;
-
-            string selected = comboBoxTypeConnection.SelectedItem.ToString();
-            if (selected == "async") connectionType = true;
+            //IP ADDRESS
             string ipAddress = TextboxIpaddress.Text;
 
-            MainPage.MasterModbusTcp = new ModbusTcp(ipAddress, port, connectionType);
-           
-            //MasterModbusTcp.Connected;
-       
+            MainPage.MasterModbusTcp = new ModbusTcp(ipAddress, port, true);     
+            //Se la conessione con il modbus slave è avvenuta corretta la label che indica lo stato
+            //della connessione diventra verde
             if(MainPage.MasterModbusTcp.Connected) stateConnectionSignal.BackColor = Color.Green;
             else stateConnectionSignal.BackColor = Color.Red;
-        }
-
-        private void settingsMdbusTcp_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
