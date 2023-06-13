@@ -1,0 +1,24 @@
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.deps.json
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.pdb
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.AssemblyInfoInputs.cache
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.AssemblyInfo.cs
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\refint\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.pdb
+C:\Users\User\Documents\_ANNO 2022-23\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ref\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.deps.json
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\bin\Debug\net6.0\ModbusMaster.pdb
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.csproj.AssemblyReference.cache
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.AssemblyInfoInputs.cache
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.AssemblyInfo.cs
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\refint\ModbusMaster.dll
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ModbusMaster.pdb
+C:\Users\User\Documents\_ANNO 2022-23\RELAZIONE STAGE\PROGETTO COMMUNICAZIONE PLC VIA MODBUS\WPF\MODBUS UI\Chiki.Project.Modbus.UI\ModbusMaster\obj\Debug\net6.0\ref\ModbusMaster.dll
