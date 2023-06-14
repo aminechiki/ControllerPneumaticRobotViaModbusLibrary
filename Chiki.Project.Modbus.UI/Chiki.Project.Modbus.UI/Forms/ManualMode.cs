@@ -32,6 +32,7 @@ namespace Chiki.Project.Modbus.UI.Forms
             MainPage.MasterModbusTcp.ReadHoldingRegisters((byte)0, 2, 1);
             MainPage.MasterModbusTcp.ReadHoldingRegisters((byte)0, 3, 1);
 
+
             //INPUT
             MainPage.MasterModbusTcp.ReadHoldingRegisters((byte)0, 8, 1);
             MainPage.MasterModbusTcp.ReadHoldingRegisters((byte)0, 9, 1);
